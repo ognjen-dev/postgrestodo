@@ -13,9 +13,6 @@ Nije realan projekat već je nastao iz edukativnih razloga.
 
 Projekat na backendu koristi PostgreSQL, express i nodejs. Client/Front-end dio je powerovan sa react-om i bootstrapom.
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
 ## Tech
 
