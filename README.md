@@ -1,5 +1,5 @@
 # PostgreSQL Todo App
-#### Ognjen Vukotić 27/18
+#### Ognjen Vukotić 
 
 Ovo je fullstack aplikacija čija je glavna funkcionalnost "Todo List" odnosno lista stvari za uraditi.
 Nije realan projekat već je nastao iz edukativnih razloga.
@@ -16,11 +16,6 @@ Projekat na backendu koristi PostgreSQL, express i nodejs. Client/Front-end dio 
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
-
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ## Setup projekta za lokalno korišćenje
 ### Instalacija dev dependency-eva
